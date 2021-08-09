@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;400;500;900&display=swap');
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: #fff;
+  background-color: #333333;
 }
 
 a {
@@ -13,4 +15,86 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.wrapper{
+  max-width: 1330px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+header.header{
+  background-color: #1C2630;
+  padding: 0;
+}
+.imgEu {
+  width: 160px;
+  margin: 0 auto;
+  border: 5px solid #fff;
+  border-radius: 60%;
+}
+
+h1 {
+  text-align: center;
+  margin: 10px auto;
+  font-size: 42px;
+  font-weight: 400;
+}
+
+h1 svg {
+  width: 40px;
+  margin: 0 11px;
+  vertical-align: middle;
+  padding: 0 0 6px 0;
+}
+h2 {
+  font-size: 24px;
+  text-align: center;
+  font-weight: 400;
+  max-width: 540px;
+  margin: 20px auto 60px auto;
+  line-height: 30px;
+}
+nav {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+nav a {
+  cursor: pointer;
+  margin: 0 10px;
+  text-align: center;
+  display: inline-block;
+}
+nav a img {
+  width: 30px;
+  height: 30px;
+}
+header.header img.imgPerfil{
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  max-width: 120px;
+}
+
+
+p {
+  max-width: 730px;
+  width: 100%;
+  margin: 0 auto 30px auto;
+  font-size: 21px;
+  text-align: center;
+  line-height: 40px;
+}
+
+.logo {
+  display: block;
+  width: 100px;
+  margin: 0 auto 50px auto;
+}
+
+.imgEu img {
+  border-radius: 100px;
 }
