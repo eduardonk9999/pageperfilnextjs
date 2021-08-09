@@ -21,6 +21,7 @@ export default function Home() {
         <p>
           Atualmente trabalho como Front-End Developer na <a href="https://www.darksidebooks.com.br/" >DarkSide Books</a> (Uma das maiores
           editoras nacionais de Livros),
+          Cursando Analise e Desenvolvimento de Sistemas na Faculdade Descomplica.
           trabalhei um tempo no site <a href="https://www.vagalume.com.br/" >Vagalume</a> (Maior Site de
           música do brasil), e iniciei
           minha carreira na <a href="https://www.okngroup.com.br/" >OKN Group</a>.
@@ -36,6 +37,9 @@ export default function Home() {
           hehe. E me
           preparando pra correr 5km kkkk.
         </p>
+        <p>Apprentice Guitarist 🎸</p>
+        <p>IOT Enthusiast ⚙️</p>
+        <p>Amante do mundo 8Bit e pixel arte 👾</p>
       </div>
       <footer className={styles.footer}>
         <div className="logo">
