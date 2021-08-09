@@ -16,7 +16,7 @@ export default function Home() {
       <div className="wrapper">
         <p>
 
-          Olá meu nome é Eduardo Silva, trabalho com Front-end uns 6 anos, sou apaixonado por JavaScript e seu universo.
+          Olá meu nome é Eduardo Silva, trabalho com Front-end uns 4 anos, sou apaixonado por JavaScript e seu universo.
         </p>
         <p>
           Atualmente trabalho como Front-End Developer na <a href="https://www.darksidebooks.com.br/" >DarkSide Books</a> (Uma das maiores
