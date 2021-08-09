@@ -19,11 +19,11 @@ export default function Home() {
           Olá meu nome é Eduardo Silva, trabalho com Front-end uns 6 anos, sou apaixonado por JavaScript e seu universo.
         </p>
         <p>
-          Atualmente trabalho como Front-End Developer na <a href="https://www.darksidebooks.com.br/" target="_blank">DarkSide Books</a> (Uma das maiores
+          Atualmente trabalho como Front-End Developer na <a href="https://www.darksidebooks.com.br/" >DarkSide Books</a> (Uma das maiores
           editoras nacionais de Livros),
-          trabalhei um tempo no site <a href="https://www.vagalume.com.br/" target="_blank">Vagalume</a> (Maior Site de
+          trabalhei um tempo no site <a href="https://www.vagalume.com.br/" >Vagalume</a> (Maior Site de
           música do brasil), e iniciei
-          minha carreira na <a href="https://www.okngroup.com.br/" target="_blank">OKN Group</a>.
+          minha carreira na <a href="https://www.okngroup.com.br/" >OKN Group</a>.
 
           Essa é minha história profissional bem resumida hehe. Além do meu Trabalho atual, crio conteudos de Front-End
           para o Instagram, relacionados a JavaScript e fremeorks, como React Js, Vue Js.
