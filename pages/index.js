@@ -8,18 +8,17 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Eduardo Silva - Front End</title>
+        <title>Eduardo Silva - Desenvolvedor</title>
         <meta name="description" content="Eduardo Silva - Front End" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <div className="wrapper">
         <p>
-
-          Olá meu nome é Eduardo Silva, trabalho com Front-end uns 4 anos, sou apaixonado por JavaScript e seu universo.
+          Olá meu nome é Eduardo Silva, trabalho com desenvolvimento Front-End e Desenvolvimento Web tem uns 5 anos.
         </p>
         <p>
-          Atualmente trabalho como Front-End Developer na <a href="https://www.darksidebooks.com.br/" >DarkSide Books</a> (Uma das maiores
+          Atualmente trabalho como Desenvolvedor na <a href="https://www.darksidebooks.com.br/" >DarkSide Books</a> (Uma das maiores
           editoras nacionais de Livros),
           Cursando Analise e Desenvolvimento de Sistemas na Faculdade Descomplica.
           trabalhei um tempo no site <a href="https://www.vagalume.com.br/" >Vagalume</a> (Maior Site de
@@ -27,19 +26,21 @@ export default function Home() {
           minha carreira na <a href="https://www.okngroup.com.br/" >OKN Group</a>.
 
           Essa é minha história profissional bem resumida hehe. Além do meu Trabalho atual, crio conteudos de Front-End
-          para o Instagram, relacionados a JavaScript e fremeorks, como React Js, Vue Js.
+          para o Instagram, relacionados a JavaScript e fremeorks, como React.
         </p>
         <p>
-          Skills: React Js, React Native, Vue Js, JavaScript, Html, CSS, SASS.
+          Skills: JavaScript, Html, CSS, SASS, PHP, Node, React.
         </p>
-        <p>
-          Coisas que eu curto fazer: Jogar Pokemon GO, todo universo da Nintendo, atualmente tentando aprender Guitarra
-          hehe. E me
-          preparando pra correr 5km kkkk.
-        </p>
-        <p>Apprentice Guitarist 🎸</p>
-        <p>IOT Enthusiast ⚙️</p>
-        <p>Amante do mundo 8Bit e pixel arte 👾</p>
+        <h2>Coisas que eu curto fazer:</h2>
+        <ul>
+          <li>Universo da Nintendo</li>
+          <li>Ler</li>
+          <li>Escutar todos tipos de música</li>
+          <li>Animes</li>
+          <li>Filmes antigos</li>
+          <li>IOT Enthusiast ⚙️</li>
+          <li>Amante do mundo 8Bit e pixel arte 👾</li>
+        </ul>
       </div>
       <footer className={styles.footer}>
         <div className="logo">

@@ -24,10 +24,7 @@ function Header() {
           <a href="https://www.linkedin.com/in/eduardo-silva-537963160/">
             <Image src={linkedin} alt="linkedin" />
           </a>
-          <a href="https://twitter.com/eduardo07js">
-            <Image src={twitter} alt="twitter" />
-          </a>
-          <a href="https://www.instagram.com/eduardodevjs/">
+          <a href="https://www.instagram.com/eduardosilvadev/">
             <Image src={insta} alt="insta" />
           </a>
           <a href="https://github.com/eduardonk9999">
