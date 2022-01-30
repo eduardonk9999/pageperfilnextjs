@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
 import Head from 'next/head'
-import Footer from './../src/components/Footer/Footer';
-import Header from './../src/components/Header/Header';
+import Footer from '../src/components/Footer/Footer';
+import Header from '../src/components/Header/Header';
 
 import invillia from '../src/public/INVILLIA.jpeg';
 import okn from '../src/public/OKN.jpeg';
@@ -22,10 +22,10 @@ export default function Home() {
         <div className="wrapper-body wrapper">
           <p>
             🖖🏻 Olá meu nome é Eduardo Silva, trabalho com desenvolvimento Front-End e crio conteúdo para o 
-            <a href="https://www.instagram.com/eduardosilvadev/" target="_blank"><strong> @eduardosilvadev</strong></a>.
+            <a href="https://www.instagram.com/eduardosilvadev/"><strong> @eduardosilvadev</strong></a>.
           </p>
           <p>
-            ☕️ Atualmente trabalho como Desenvolvedor Front-End focado em React.Js na <a href="https://invillia.com/global-growth-framework/" target="_blank"><strong>Invillia</strong> </a>
+            ☕️ Atualmente trabalho como Desenvolvedor Front-End focado em React.Js na <a href="https://invillia.com/global-growth-framework/"><strong>Invillia</strong> </a>
             uma das principais empresas de Tecnologia do Brasil.
           </p>
           <p>🎓 Cursando Analise e Desenvolvimento de Sistemas.</p>
